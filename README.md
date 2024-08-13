@@ -1,4 +1,4 @@
-                                                # Hello I Am Deepak Singh
+                              # Hello I Am Deepak Singh
 
-                                        ** A passionate frontend developer from India **
+                  ** A passionate frontend developer from India **
                                  
