@@ -1,6 +1,7 @@
-                              # Hello I Am Deepak Singh
+                              
+                              <h1> Hello I Am Deepak Singh</h1>
 
-                  ** A passionate frontend developer from India **
+                  
 
                   <div id="badges">
   <a href="your-linkedin-URL">
