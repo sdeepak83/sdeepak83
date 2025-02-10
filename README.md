@@ -25,7 +25,7 @@ A passionate frontend developer
 
 I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
                                  
-- :telescope: I’m currently working on <b>MERN STACK</b> and aim to contribute to both front and backend development for building web applications.
+- :telescope: I’m currently working on <b>MERN STACK</b> and aim to contribute to both frontend and backend development for building web applications.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Deepak-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/deepak-singh-28b33b271/)
 
